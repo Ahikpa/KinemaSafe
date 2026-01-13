@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnements virtuels
+venv/
+env/
+.env
+
+# Données (On ne commit généralement pas les données brutes volumineuses, mais ici on garde data pour l'exemple)
+# data/
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
