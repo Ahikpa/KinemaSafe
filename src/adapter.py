@@ -15,10 +15,10 @@ class SynergiesAdapter:
         # Structure JSON qui imite un standard industriel
         payload = {
             "metadata": {
-                "project": "SYNERGIES",
+                "project": "KINEMASAFE_AD_VALIDATION",
                 "export_date": datetime.now().isoformat(),
                 "source_simulation": source_file,
-                "partner": "SystemX_Candidate_POC"
+                "partner": "KinemaSafe_Toolsuite"
             },
             "scenarios_identified": [
                 {

@@ -4,7 +4,7 @@ from src.analyzer import SafetyMonitor
 from src.adapter import SynergiesAdapter
 
 def main():
-    print("=== Démarrage du POC SystemX SYNERGIES ===")
+    print("=== KinemaSafe Pipeline Started ===")
     
     # Chemins des fichiers
     raw_data_file = os.path.join("data", "raw_simulation_log.csv")

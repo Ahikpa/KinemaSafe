@@ -5,16 +5,16 @@ import altair as alt
 
 # Configuration de la page
 st.set_page_config(
-    page_title="SystemX - Validation Dashboard",
+    page_title="KinemaSafe - Validation Dashboard",
     page_icon="🚗",
     layout="wide"
 )
 
 # --- HEADER ---
-st.title("🚗 SystemX - Analyseur de Scénarios CCAM")
+st.title("🚗 KinemaSafe - Safety Analysis Dashboard")
 st.markdown("""
-**Contexte :** Validation de systèmes de conduite automatisée.
-Ce tableau de bord permet de visualiser les données de télémétrie issues des simulateurs et d'identifier les zones de criticité (Near Miss).
+**Contexte :** Validation de sécurité pour véhicules autonomes.
+Ce tableau de bord permet de visualiser les données de télémétrie issues des simulations et d'identifier les zones de criticité (Near Miss).
 """)
 
 # --- CHARGEMENT DES DONNÉES ---
