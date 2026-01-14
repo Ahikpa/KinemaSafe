@@ -40,8 +40,11 @@ Génère la simulation, analyse les risques et exporte les résultats.
 python pipeline.py
 ```
 
-### 2. Visualiser les Résultats (Dashboard)
-Lance l'interface d'analyse interactive pour explorer les données et ajuster les seuils de sensibilité.
+### 2. Visualiser les Résultats (Dashboard Interactif)
+Le dashboard propose une interface à deux niveaux pour une validation complète :
+*   **Onglet Source** : Audit des données brutes, statistiques descriptives et dictionnaire des données pour vérifier la "Vérité Terrain" (Ground Truth).
+*   **Onglet Analyse** : Visualisation des KPIs de sécurité, graphiques temporels et rapport d'incident exportable.
+
 ```bash
 streamlit run dashboard.py
 ```
