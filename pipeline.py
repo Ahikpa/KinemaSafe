@@ -8,7 +8,7 @@ def main():
     
     # Chemins des fichiers
     raw_data_file = os.path.join("data", "raw_simulation_log.csv")
-    final_output_file = os.path.join("data", "synergies_standard_output.json")
+    final_output_file = os.path.join("data", "kinemasafe_output.json")
 
     # Étape 1 : Simulation (Mocking Data Generation)
     # Dans la réalité, cela viendrait de SCANeR ou Carla

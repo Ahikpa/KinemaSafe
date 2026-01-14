@@ -1,0 +1,416 @@
+{
+    "metadata": {
+        "project": "KINEMASAFE_AD_VALIDATION",
+        "export_date": "2026-01-14T09:57:29.418335",
+        "source_simulation": "data\\raw_simulation_log.csv",
+        "partner": "KinemaSafe_Toolsuite"
+    },
+    "scenarios_identified": [
+        {
+            "type": "NEAR_COLLISION",
+            "description": "Vehicle approached obstacle with low TTC",
+            "events_count": 57,
+            "time_series_data": [
+                {
+                    "timestamp": 8.2,
+                    "ttc_value": 2.5,
+                    "speed": 50.0,
+                    "distance": 34.67,
+                    "severity": "MEDIUM"
+                },
+                {
+                    "timestamp": 8.3,
+                    "ttc_value": 2.4,
+                    "speed": 50.0,
+                    "distance": 33.38,
+                    "severity": "MEDIUM"
+                },
+                {
+                    "timestamp": 8.4,
+                    "ttc_value": 2.29,
+                    "speed": 50.0,
+                    "distance": 31.86,
+                    "severity": "MEDIUM"
+                },
+                {
+                    "timestamp": 8.5,
+                    "ttc_value": 2.2,
+                    "speed": 50.0,
+                    "distance": 30.5,
+                    "severity": "MEDIUM"
+                },
+                {
+                    "timestamp": 8.6,
+                    "ttc_value": 2.09,
+                    "speed": 50.0,
+                    "distance": 29.08,
+                    "severity": "MEDIUM"
+                },
+                {
+                    "timestamp": 8.7,
+                    "ttc_value": 2.0,
+                    "speed": 50.0,
+                    "distance": 27.76,
+                    "severity": "MEDIUM"
+                },
+                {
+                    "timestamp": 8.8,
+                    "ttc_value": 1.91,
+                    "speed": 50.0,
+                    "distance": 26.46,
+                    "severity": "MEDIUM"
+                },
+                {
+                    "timestamp": 8.9,
+                    "ttc_value": 1.81,
+                    "speed": 50.0,
+                    "distance": 25.07,
+                    "severity": "MEDIUM"
+                },
+                {
+                    "timestamp": 9.0,
+                    "ttc_value": 1.7,
+                    "speed": 50.0,
+                    "distance": 23.6,
+                    "severity": "MEDIUM"
+                },
+                {
+                    "timestamp": 9.1,
+                    "ttc_value": 1.59,
+                    "speed": 50.0,
+                    "distance": 22.13,
+                    "severity": "MEDIUM"
+                },
+                {
+                    "timestamp": 9.2,
+                    "ttc_value": 1.5,
+                    "speed": 50.0,
+                    "distance": 20.89,
+                    "severity": "MEDIUM"
+                },
+                {
+                    "timestamp": 9.3,
+                    "ttc_value": 1.4,
+                    "speed": 50.0,
+                    "distance": 19.38,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 9.4,
+                    "ttc_value": 1.31,
+                    "speed": 50.0,
+                    "distance": 18.13,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 9.5,
+                    "ttc_value": 1.2,
+                    "speed": 50.0,
+                    "distance": 16.67,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 9.6,
+                    "ttc_value": 1.1,
+                    "speed": 50.0,
+                    "distance": 15.3,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 9.7,
+                    "ttc_value": 1.0,
+                    "speed": 50.0,
+                    "distance": 13.82,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 9.8,
+                    "ttc_value": 0.9,
+                    "speed": 50.0,
+                    "distance": 12.45,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 9.9,
+                    "ttc_value": 0.8,
+                    "speed": 50.0,
+                    "distance": 11.06,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 10.0,
+                    "ttc_value": 0.7,
+                    "speed": 50.0,
+                    "distance": 9.77,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 10.1,
+                    "ttc_value": 0.61,
+                    "speed": 50.0,
+                    "distance": 8.43,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 10.2,
+                    "ttc_value": 0.5,
+                    "speed": 50.0,
+                    "distance": 6.9,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 10.3,
+                    "ttc_value": 0.4,
+                    "speed": 50.0,
+                    "distance": 5.5,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 10.4,
+                    "ttc_value": 0.3,
+                    "speed": 50.0,
+                    "distance": 4.23,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 10.5,
+                    "ttc_value": 0.21,
+                    "speed": 50.0,
+                    "distance": 2.86,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 10.6,
+                    "ttc_value": 0.1,
+                    "speed": 50.0,
+                    "distance": 1.35,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 10.7,
+                    "ttc_value": 0.0,
+                    "speed": 50.0,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 10.8,
+                    "ttc_value": 0.0,
+                    "speed": 50.0,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 10.9,
+                    "ttc_value": 0.0,
+                    "speed": 50.0,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 11.0,
+                    "ttc_value": 0.0,
+                    "speed": 50.0,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 11.1,
+                    "ttc_value": 0.0,
+                    "speed": 50.0,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 11.2,
+                    "ttc_value": 0.0,
+                    "speed": 50.0,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 11.3,
+                    "ttc_value": 0.0,
+                    "speed": 50.0,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 11.4,
+                    "ttc_value": 0.0,
+                    "speed": 50.0,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 11.5,
+                    "ttc_value": 0.0,
+                    "speed": 50.0,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 11.6,
+                    "ttc_value": 0.0,
+                    "speed": 50.0,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 11.7,
+                    "ttc_value": 0.0,
+                    "speed": 50.0,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 11.8,
+                    "ttc_value": 0.0,
+                    "speed": 50.0,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 11.9,
+                    "ttc_value": 0.0,
+                    "speed": 50.0,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 12.0,
+                    "ttc_value": 0.0,
+                    "speed": 47.5,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 12.1,
+                    "ttc_value": 0.0,
+                    "speed": 45.0,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 12.2,
+                    "ttc_value": 0.0,
+                    "speed": 42.5,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 12.3,
+                    "ttc_value": 0.0,
+                    "speed": 40.0,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 12.4,
+                    "ttc_value": 0.0,
+                    "speed": 37.5,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 12.5,
+                    "ttc_value": 0.0,
+                    "speed": 35.0,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 12.6,
+                    "ttc_value": 0.0,
+                    "speed": 32.5,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 12.7,
+                    "ttc_value": 0.0,
+                    "speed": 30.0,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 12.8,
+                    "ttc_value": 0.0,
+                    "speed": 27.5,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 12.9,
+                    "ttc_value": 0.0,
+                    "speed": 25.0,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 13.0,
+                    "ttc_value": 0.0,
+                    "speed": 22.5,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 13.1,
+                    "ttc_value": 0.0,
+                    "speed": 20.0,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 13.2,
+                    "ttc_value": 0.0,
+                    "speed": 17.5,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 13.3,
+                    "ttc_value": 0.0,
+                    "speed": 15.0,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 13.4,
+                    "ttc_value": 0.0,
+                    "speed": 12.5,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 13.5,
+                    "ttc_value": 0.0,
+                    "speed": 10.0,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 13.6,
+                    "ttc_value": 0.0,
+                    "speed": 7.5,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 13.7,
+                    "ttc_value": 0.0,
+                    "speed": 5.0,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                },
+                {
+                    "timestamp": 13.8,
+                    "ttc_value": 0.0,
+                    "speed": 2.5,
+                    "distance": 0.0,
+                    "severity": "HIGH"
+                }
+            ]
+        }
+    ]
+}
